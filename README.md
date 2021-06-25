@@ -1,1 +1,1 @@
-# P-OWM
+# P-OWM (Python OpenWeatherMap)
